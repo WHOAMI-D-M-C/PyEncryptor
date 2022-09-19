@@ -33,11 +33,11 @@ cd PyEncryptor
 
 [*] For Python2:
 ``` shell script
-python2 PyEnc.py
+python2 PyEnc.cpython.so
 ```
 [*] For Python3:
 ``` shell script
-python PyEnc.py
+python PyEnc.cpython.so
 ```
 ##
 
